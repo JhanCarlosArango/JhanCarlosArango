@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JhanCarlosArango
 - 👀 I’m interested in progamming.
 - 🌱 I’m currently learning web, system and software.
-- 💞️ I’m looking to collaborate on university amazonia 
+- 💞️ I’m looking to collaborate on programmer.
 - 📫 How to reach me ...
 
 <!---
